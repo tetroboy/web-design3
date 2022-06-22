@@ -1,0 +1,23 @@
+.aboutContainer{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+.aboutImg{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.aboutImg>img{
+
+}
+.aboutText{
+    width: 90%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    color: lightcoral;
+    text-shadow: 2px 1px 3px lightgreen, -2px -1px 3px red;
+    font-size: 1.5em;
+}
